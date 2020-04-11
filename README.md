@@ -9,24 +9,22 @@ Homebridge plugin for Plejd
             "key": "82-82-91-3E-90-F1-4A-42-C0-84-B7-CB-A4-2B-91-FD",
             "devices": [
                 {
-                    "name": "Spegel",
+                    "name": "Mirror",
                     "model": "DIM-02",
                     "identifier": 11,
                     "dimming": true
                 },
                 {
-                    "name": "Dusch",
+                    "name": "Shower",
                     "model": "DIM-02",
                     "identifier": 12,
                     "dimming": true
                 },
                 {
-                    "name": "Handdukstork",
+                    "name": "Towel Dryer",
                     "model": "CTR-01",
                     "identifier": 13
                 }
             ]
         }
     ]
-
-                }
