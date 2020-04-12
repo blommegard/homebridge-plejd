@@ -28,3 +28,7 @@ Homebridge plugin for Plejd
             ]
         }
     ]
+```
+## Thanks
+
+Big thanks to [@klali](https://github.com/klali) (https://github.com/klali/ha-plejd) and [@emilohman](https://github.com/emilohman) (https://github.com/emilohman/node-red-contrib-plejd) for their Plejd related projects, this would not be possible without it.
