@@ -1,0 +1,22 @@
+{
+  "name": "homebridge-plejd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Simon Blommegård",
+  "license": "MIT",
+  "keywords": [
+    "homebridge-plugin"
+  ],
+  "engines": {
+    "node": ">=11.0.0",
+    "homebridge": ">=0.4.0"
+  },
+  "dependencies": {
+    "@abandonware/bluetooth-hci-socket": "^0.5.3-4",
+    "@abandonware/noble": "^1.9.2-6"
+  }
+}
